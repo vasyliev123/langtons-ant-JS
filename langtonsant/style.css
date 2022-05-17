@@ -1,0 +1,34 @@
+body{
+    padding: 20px;
+    background-color: teal;
+}
+table{
+    background-color: white;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+td{
+    width: 5px;
+    height: 5px;
+
+    border:  0.01em solid rgba(255,255,255,0.25);
+
+
+}
+.ant
+{
+    background-color: red;
+}
+.white
+{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+.start, .reset
+{
+    width: 100px;
+    height: 20px;
+    background-color: aqua;
+}
